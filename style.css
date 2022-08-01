@@ -1,0 +1,13 @@
+.body{
+    background-image: url("background3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div{
+    text-align: center;
+    color: aquamarine;
+    font-size: 25px;
+}
+.color{
+    color: aqua;
+}
